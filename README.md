@@ -1,2 +1,2 @@
 # personal-data-collection-using-basic-dbms
-This repository shows basics on how to host and collect data in a database .
+This repository shows basics on how to host a website  and collect data in a database .
