@@ -23,7 +23,15 @@ Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/your-username/personal-data-collection-using-basic-dbms.git
 ```
-
+### File path
+The file path should be as below 
+```bash
+myproject/
+│
+└── templates/
+    │
+    └── index.html
+```
 ## Usage
 
 1. Navigate to the repository directory:
