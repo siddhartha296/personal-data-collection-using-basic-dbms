@@ -38,6 +38,8 @@ myproject/
 
 ```bash
 cd personal-data-collection-using-basic-dbms
+pip install flask
+pip install flask_sqlalchemy
 ```
 
 2. Run the Flask application:
